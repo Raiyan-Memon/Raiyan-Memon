@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Personal projects. 
 - 🌱 I’m currently learning Web development.
--  ⚡ Fun fact:  I love Coding and Bike Riding.
+-  ⚡ Fun fact:  I love Coding and Bike Riding.<br>
+-   [instagram]: https://instagram.com/raiyan_memon?igshid=nc6h2dtxy8hk
 <!-- - -📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 
