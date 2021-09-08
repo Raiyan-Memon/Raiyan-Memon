@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Personal projects. 
 - 🌱 I’m currently learning Web development.
-<!-- - - ⚡ Fun fact: ... -->
+-  ⚡ Fun fact:  I love Coding and Bike Riding.
 <!-- - -📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 
