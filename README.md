@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Personal projects. 
 - 🌱 I’m currently learning Web development.
 -  ⚡ Fun fact:  I love Coding and Bike Riding.<br>
--  <img width="17px" height="17px" src="https://www.freepnglogos.com/download/2427"> : https://instagram.com/raiyan_memon?igshid=nc6h2dtxy8hk
+-  Portfolio : https://raiyanmemon.netlify.app
 
 <!-- - -📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
