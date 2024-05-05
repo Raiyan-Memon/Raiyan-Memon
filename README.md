@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Personal projects. 
 - 🌱 I’m currently learning Web development.
--  ⚡ Fun fact:  I love Coding and Bike Riding.<br>
+-  ⚡ Fun fact:  I love Coding.<br>
 - 🎓 Portfolio : https://raiyanmemon.in
 
 <!-- - -📫 How to reach me: ... -->
